@@ -18,7 +18,7 @@ var addToAllUrls = function(arr) {
 	}
 };
 
-var searchFeedsUrl = 'https://ajax.googleapis.com/ajax/services/feed/find?v=1.0&callback=loadFeedSuccess&q=Java%20Blogs';
+var searchFeedsUrl = 'https://ajax.googleapis.com/ajax/services/feed/find?v=1.0&callback=loadFeedSuccess&q=Love%20Good%20Feelings%20Happy%20Charity';
 var ajaxApiLoadFeedBaseUrl = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&callback=loadFeedSuccess&q=' 
 
 $(window).load(function(){
