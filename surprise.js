@@ -73,4 +73,7 @@ $(window).load(function(){
 	}
 	addToAllUrls(randomSupportedSites);
 	reload();
+    
+    var t=setInterval(reload,3000);
+
 });
