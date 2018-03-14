@@ -1,4 +1,4 @@
-var maxLinksPerFeed = 5;
+var maxLinksPerFeed = 18181818361872727236;
 var randomSupportedSites = new Array();
 var addToRandomSupportedSites = function(arr) {
 	for(var i in arr) {
