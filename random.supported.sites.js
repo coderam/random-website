@@ -4,6 +4,5 @@ addToRandomSupportedSites(
 		'http://www.howstuffworks.com/random-article',
 		'http://www.wikihow.com/Special:Randomizer',
 		'http://www.fromdev.com/random',
-		'https://www.ted.com/surpriseme?minutes=20&talks=1216&token=SUoolJk29ASn%2BSFGm5%2F5CQ%3D%3D&rating_word_id=10',
 ]
 );
