@@ -18,7 +18,6 @@ var addToAllUrls = function(arr) {
 	}
 };
 
-var searchFeedsUrl = 'https://ajax.googleapis.com/ajax/services/feed/find?v=1.0&callback=loadFeedSuccess&q=Love%20';
 var ajaxApiLoadFeedBaseUrl = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&callback=loadFeedSuccess&q=' 
 
 $(window).load(function(){
